@@ -5,7 +5,7 @@ table 50201 "Warehouse Setup Ext"
     {
         field(1; "Primary Key"; Code[10])
         {
-            DataClassification = SystemMetadata;
+            Caption = 'Primary Key';
         }
         field(2; "Default Dimension"; Code[20])
         {
